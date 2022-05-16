@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/venture/static/css/main.a122cad1.css",
+    "main.js": "/venture/static/js/main.d8617dfd.js",
+    "static/media/emergebg.jpg": "/venture/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/venture/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/venture/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/venture/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/venture/index.html",
+    "main.a122cad1.css.map": "/venture/static/css/main.a122cad1.css.map",
+    "main.d8617dfd.js.map": "/venture/static/js/main.d8617dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a122cad1.css",
+    "static/js/main.d8617dfd.js"
+  ]
+}
